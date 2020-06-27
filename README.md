@@ -1,2 +1,2 @@
 # bokchoy
-This is a collaboration between my cousin Christopher and me!
+This is a collaboration between my cousin 8-year old Christopher and me!
