@@ -1,2 +1,2 @@
 # bokchoy
-Christopher + Ethan Collab :)
+This is a collaboration between my cousin Christopher and me!
