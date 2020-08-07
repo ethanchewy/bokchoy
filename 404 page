@@ -3,7 +3,9 @@
   <title>404 - Garmand</title>
 </head>
 <body>
+ 
+ <p style="text-align:center;"><big><big><big><big><big>Error 404</big></big</big></big></big>
+ <p style="text-align:center;">This is not the page you were looking for.</p>
  <a href="ethanchewy.xyz/bokchoy/">Back to Home</a>
- <p><big><big><big><big><big>404</big></big</big></big></big>
  </body>
 </html>
